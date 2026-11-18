@@ -1,0 +1,10 @@
+{
+  "command": [
+    "dotnet",
+    "bin/Debug/net8.0/App.dll"
+  ],
+  "expected": {
+    "newShutterSeconds": 0.04,
+    "shutterChangeStops": 2
+  }
+}
